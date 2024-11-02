@@ -67,9 +67,9 @@
   <th>2. 산</th>
  </tr>
  <tr align="center">
-  <td><img src="documents/screen/login.gif"></td>
-  <td><img src="documents/screen/home.gif"></td>
-  <td><img src="documents/screen/mountain.gif"></td>
+  <td><img src="documents/screen/login.gif" height="500px"></td>
+  <td><img src="documents/screen/home.gif" height="500px"></td>
+  <td><img src="documents/screen/mountain.gif" height="500px"></td>
  </tr>
 </table>
 <br /><br /><br />
@@ -79,8 +79,8 @@
   <th colspan="2">3. 마이페이지</th>
  </tr>
  <tr align="center">
-  <td><img src="documents/screen/mypage.gif"></td>
-  <td><img src="documents/screen/mypage_record.gif"></td>
+  <td><img src="documents/screen/mypage.gif" height="500px"></td>
+  <td><img src="documents/screen/mypage_record.gif" height="500px"></td>
  </tr>
 </table>
 <br /><br /><br />
@@ -91,9 +91,9 @@
   <th colspan="2">5. 소모임</th>
  </tr>
  <tr align="center">
- <td><img src="documents/screen/guild_enter.gif"></td>
-  <td><img src="documents/screen/party_search.gif"></td>
-   <td><img src="documents/screen/party_create.gif"></td>
+ <td><img src="documents/screen/guild_enter.gif" height="500px"></td>
+  <td><img src="documents/screen/party_search.gif" height="500px"></td>
+   <td><img src="documents/screen/party_create.gif" height="500px"></td>
  </tr>
  <tr align="center">
   <td>동호회</td>
@@ -109,10 +109,10 @@
   <th colspan="2">7. 식물 검색</th>
  </tr>
  <tr align="center">
-  <td><img src="documents/screen/party_enter.gif"></td>
-  <td><img src="documents/screen/party_offcourse.gif"></td>
-   <td><img src="documents/screen/plant_loading.gif"></td>
-  <td><img src="documents/screen/plant_result.gif"></td>
+  <td><img src="documents/screen/party_enter.gif" height="500px"></td>
+  <td><img src="documents/screen/party_offcourse.gif" height="500px"></td>
+   <td><img src="documents/screen/plant_loading.gif" height="500px"></td>
+  <td><img src="documents/screen/plant_result.gif" height="500px"></td>
  <tr align="center">
  <td>입장</td>
  <td>경로 이탈</td>
